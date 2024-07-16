@@ -9,7 +9,7 @@
                   _____________________________________________________________________________________________________
 
                                             Who ever you are, do you want to prank some one?
-                  "RickRoll Virus.exe" is a virus that's harmless, but might chash your computer of the amount of 
+                  "RickRoll Virus.exe" is a virus that's harmless, but might crash your computer of the amount of 
                                                     RickRoll tabs this produces.
                   _____________________________________________________________________________________________________
                     
